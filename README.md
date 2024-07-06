@@ -1,3 +1,3 @@
-# projectdata
+# Data Science Project
 
-## Editing the file
+## Creating a Data Science Web Application with Streamlit and Python
